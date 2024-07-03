@@ -1,4 +1,4 @@
-def name_char_length(name: str) -> int:
+def name_char_length(name: str):
     value= len(name)
     print(value)
 
